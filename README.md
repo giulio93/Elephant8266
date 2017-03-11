@@ -7,3 +7,5 @@ The poject exploit a software serial in order to use HC05 in AT programming mode
 In this way we are allow to read MAC bluetooth adress , RSSI and class device type.
 
 It use an NODE-MCU ESP-12 and a bluetooth HC05 connected to the software serial.
+
+This project is based on Arduino core for ESP8266 WiFi chip : https://github.com/esp8266/Arduino
