@@ -1,0 +1,919 @@
+BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID 
+
+ 02:1A:11:F8:CD:BF    0        2        0    0   6  54e. WPA2 CCMP   PSK  AndroidAP                                                                                     
+ BA:53:AC:4A:AB:45   -1        0        0    0  -1  -1                    iPhone di Piero                                                                                                   
+ 90:A2:DA:F2:11:69    0        0       83    0  -1  -1   OPN              Arduino Yun-90A2DAF211          
+                                                                                                
+ BSSID              STATION            PWR   Rate    Lost  Packets  Probes                      
+                                                                                                
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0      0       84                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      1        6                              
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      1        8  Telecom-98415359,Telecom-857
+ (not associated)   3A:D1:DA:01:C2:E6    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        2                              
+ (not associated)   80:13:82:CE:5E:20    0    0 - 0      0        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0        3                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        2                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0     12        2                              
+ (not associated)   1C:B0:94:A3:06:1F    0    0 - 0      0        1  free hotspot E4A            
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0        4                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        1                              
+ (not associated)   5A:34:B9:21:BB:73    0    0 - 0      0        8                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       19  SITECOM07A8F2,sitecom07a8f2,                     
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      6       10  Vodafone-33429433,CPH Hotspo
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0        3                              
+ (not associated)   DA:A1:19:85:67:3E    0    0 - 0      0        5                              
+ (not associated)   DA:A1:19:87:5F:80    0    0 - 0      1        5                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      3        9                             
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      1        3                              
+ (not associated)   AA:19:57:B3:3E:5F    0    0 - 0      0        1                              
+ (not associated)   24:0A:11:A5:35:78    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:F3:4E:8F    0    0 - 0      0        2                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        9                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   F2:AA:2A:97:B7:96    0    0 - 0      0        3                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:23:EB:AE    0    0 - 0      0        6                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        1                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        5                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     33       20  free hotspot E4A            
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       13                          
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   CC:FA:00:F1:49:3F    0    0 - 0      0        2                              
+ (not associated)   DA:A1:19:9B:FF:FE    0    0 - 0      0        4                              
+ (not associated)   80:01:84:26:21:F7    0    0 - 0      0        2                              
+ (not associated)   96:E2:36:67:8C:55    0    0 - 0      0        1                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        3                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        6                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       17                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18                              
+ (not associated)   AA:19:57:B3:3E:5F    0    0 - 0      0        1     
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   CC:FA:00:F1:49:3F    0    0 - 0      0        2                              
+ (not associated)   DA:A1:19:9B:FF:FE    0    0 - 0      0        4                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       17                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18                              
+ (not associated)   AA:19:57:B3:3E:5F    0    0 - 0      0        1                              
+ (not associated)   24:0A:11:A5:35:78    0    0 - 0      0        1                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        8                              
+ (not associated)   DA:A1:19:F3:4E:8F    0    0 - 0      0        2
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0    272       25  free hotspot E4A            
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18                              
+ (not associated)   80:01:84:26:21:F7    0    0 - 0      0        2                              
+ (not associated)   96:E2:36:67:8C:55    0    0 - 0      0        1                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        3                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        6                              
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      0        3                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   DA:A1:19:F3:4E:8F    0    0 - 0      0        2                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        8
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      3        3  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        4                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     0     1092  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0      0        2  eduroam                     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0    120        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     9     1366  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0     48        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0    120        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0     72       14                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4 
+ BA:53:AC:4A:AB:45  A4:F1:E8:AF:FA:1A    0    0 - 0     45        3  iPhone di Piero             
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     9     1367  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0     48        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0    120        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0     72       14                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4 
+ BA:53:AC:4A:AB:45  A4:F1:E8:AF:FA:1A    0    0 - 0    319       11  iPhone di Piero,eduroam     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e   406     1379  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0     48        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      0        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0     72       14                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A  
+ BA:53:AC:4A:AB:45  A4:F1:E8:AF:FA:1A    0    0 - 0     53       28  iPhone di Piero,eduroam     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     0     1453  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0      0        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      0        6  eduroam                     
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       14                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        3  free hotspot E4A            
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        7                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0     80        6 
+ last      
+  90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     2       63                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        2                              
+ (not associated)   80:13:82:CE:5E:20    0    0 - 0      1        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     18        3                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        2                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0        1                              
+ (not associated)   1C:B0:94:A3:06:1F    0    0 - 0      0        1  free hotspot E4A            
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0        4                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        1                              
+ (not associated)   5A:34:B9:21:BB:73    0    0 - 0     23        5                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       19  SITECOM07A8F2,sitecom07a8f2,
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        1  
+  90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0      0       84                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      1        6                              
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      1        8  Telecom-98415359,Telecom-857
+ (not associated)   3A:D1:DA:01:C2:E6    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        2                              
+ (not associated)   80:13:82:CE:5E:20    0    0 - 0      0        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0        3                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        2                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0     12        2                              
+ (not associated)   1C:B0:94:A3:06:1F    0    0 - 0      0        1  free hotspot E4A            
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0        4                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        1                              
+ (not associated)   5A:34:B9:21:BB:73    0    0 - 0      0        8                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       19  SITECOM07A8F2,sitecom07a8f2,
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      9        4                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        6                              
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0        8  Telecom-98415359,Telecom-857
+ (not associated)   3A:D1:DA:01:C2:E6    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        2                              
+ (not associated)   80:13:82:CE:5E:20    0    0 - 0      0        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0        3                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        2                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0        2                              
+ (not associated)   1C:B0:94:A3:06:1F    0    0 - 0      0        1  free hotspot E4A            
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0        4                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        1                              
+ (not associated)   5A:34:B9:21:BB:73    0    0 - 0     15       10      
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0        2                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      2        6                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:E4:CF:02    0    0 - 0      0        2                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0        3                              
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       10  Vodafone-33429433,CPH Hotspo
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0        5                              
+ (not associated)   DA:A1:19:85:67:3E    0    0 - 0      0        5                              
+ (not associated)   DA:A1:19:87:5F:80    0    0 - 0      0        5                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0        9    
+ (not associated)   DA:A1:19:23:EB:AE    0    0 - 0      0        6                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        1                              
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0        2                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0        6                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:E4:CF:02    0    0 - 0      0        2                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0    163        7  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       10  Vodafone-33429433,CPH Hotspo
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0     30        6                              
+ (not associated)   DA:A1:19:85:67:3E    0    0 - 0      0        5                              
+ (not associated)   DA:A1:19:87:5F:80    0    0 - 0      0        5                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0        9  
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        4                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   F2:AA:2A:97:B7:96    0    0 - 0      0        3                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:23:EB:AE    0    0 - 0      0        6                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        1                              
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0        2                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0        6                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:E4:CF:02    0    0 - 0      0        2                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        3                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       13  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       10  Vodafone-33429433,CPH Hotspo  
+ (not associated)   DA:A1:19:F3:4E:8F    0    0 - 0      0        2                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0     25        9                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   F2:AA:2A:97:B7:96    0    0 - 0      0        3                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:23:EB:AE    0    0 - 0      0        6                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        1                              
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0        2                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0        6                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:E4:CF:02    0    0 - 0      0        2                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       16  free hotspot E4A   
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   CC:FA:00:F1:49:3F    0    0 - 0      0        2                              
+ (not associated)   DA:A1:19:9B:FF:FE    0    0 - 0      0        4                              
+ (not associated)   80:01:84:26:21:F7    0    0 - 0      0        2                              
+ (not associated)   96:E2:36:67:8C:55    0    0 - 0      0        1                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        3                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        6                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       17                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18 
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0    272       25  free hotspot E4A            
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18                              
+ (not associated)   80:01:84:26:21:F7    0    0 - 0      0        2                              
+ (not associated)   96:E2:36:67:8C:55    0    0 - 0      0        1                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        3                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        6                              
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      0        3                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   DA:A1:19:F3:4E:8F    0    0 - 0      0        2                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        8 
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   CC:FA:00:F1:49:3F    0    0 - 0      0        2                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        4                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       17                              
+ (not associated)   DA:A1:19:9B:FF:FE    0    0 - 0      0        4                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        6                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        3                              
+ (not associated)   96:E2:36:67:8C:55    0    0 - 0      0        1                              
+ (not associated)   80:01:84:26:21:F7    0    0 - 0      0        2    
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      3        3  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   62:28:5E:34:DC:05    0    0 - 0      0        5                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        4                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       18                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       11                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam 
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0      0        2  eduroam                     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0    120        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     9     1366  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0     48        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0    120        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0     72       14                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4  
+ BA:53:AC:4A:AB:45  A4:F1:E8:AF:FA:1A    0    0 - 0     45        3  iPhone di Piero             
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e     9     1367  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0     48        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0    120        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam                     
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0     72       14                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4    
+ BA:53:AC:4A:AB:45  A4:F1:E8:AF:FA:1A    0    0 - 0      0       11  iPhone di Piero,eduroam     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0      0     1396  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0      0        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      0        6  eduroam                     
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   DA:A1:19:51:16:B4    0    0 - 0      0        2                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2                              
+ (not associated)   F6:99:3D:85:3B:90    0    0 - 0      0       19                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       14                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        3  free hotspot E4A            
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   5A:A1:F9:F2:C3:89    0    0 - 0      0        4  eduroam 
+ BA:53:AC:4A:AB:45  A4:F1:E8:AF:FA:1A    0    0 - 0      0       31  iPhone di Piero,eduroam     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e   446     1471  Arduino Yun-90A2DAF21169,Key
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0      0        4  eduroam,iPhone di Piero     
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      0        6  eduroam                     
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       14                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        3  free hotspot E4A            
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0        7                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0        6                              
+ (not associated)   92:10:E7:13:E5:E0    0    0 - 0      0        4                              
+ (not associated)   7E:A7:81:87:79:80    0    0 - 0      0        4                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        2                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       29  free hotspot E4A            
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        2  
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0     22     1875  Arduino Yun-90A2DAF21169,Key
+ (not associated)   F2:93:FB:11:30:27    0    0 - 0     22        4  rieze                       
+ (not associated)   F0:5B:7B:B0:19:58    0    0 - 0      1        4                              
+ (not associated)   DA:A1:19:8F:A7:38    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:56:24:26    0    0 - 0      0        2                              
+ (not associated)   BA:EE:8C:1A:F4:FB    0    0 - 0      0       16                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0     11        5                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       21                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       11                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       18                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       31  free hotspot E4A            
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        3
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0     73     1902  Arduino Yun-90A2DAF21169,Key
+ (not associated)   F2:93:FB:11:30:27    0    0 - 0     57       13  rieze                       
+ (not associated)   F0:5B:7B:B0:19:58    0    0 - 0      1        4                              
+ (not associated)   DA:A1:19:8F:A7:38    0    0 - 0      0        1                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        5                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       21                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       11                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0     24       27                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       31  free hotspot E4A            
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        3                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        5  free hotspot E4A            
+ (not associated)   0A:6F:BB:B7:14:54    0    0 - 0      0        6  eduroam     
+ (not associated)   F2:93:FB:11:30:27    0    0 - 0      0       13  rieze                       
+ (not associated)   F0:5B:7B:B0:19:58    0    0 - 0     86        6   CittaCastelfrancoV.toWiFi  
+ (not associated)   DA:A1:19:8F:A7:38    0    0 - 0      0        1                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        5                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       21                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       11                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0     24       27                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       31  free hotspot E4A            
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        3                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        5  free hotspot E4A            
+ (not associated)   0A:79:CE:B7:8A:E0    0    0 - 0      0        4  eduroam,iPhone di Piero     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0e   130     2035  Arduino Yun-90A2DAF21169,Key
+ (not associated)   1C:B7:2C:59:9F:AD    0    0 - 0      0        2                              
+ (not associated)   08:3D:88:B7:81:4F    0    0 - 0      0        2                              
+ (not associated)   F2:93:FB:11:30:27    0    0 - 0      0       16  rieze                       
+ (not associated)   F0:5B:7B:B0:19:58    0    0 - 0      0       10   CittaCastelfrancoV.toWiFi  
+ (not associated)   DA:A1:19:8F:A7:38    0    0 - 0      0        1                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        6                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       25                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       11                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        4                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       27                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       31  free hotspot E4A            
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        5  free hotspot E4A
+ (not associated)   7E:89:8F:55:08:9B    0    0 - 0      0        5                              
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        2                              
+ (not associated)   BA:C4:92:5C:B3:55    0    0 - 0      0       26                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       31                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0     18       15                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       30                              
+ (not associated)   F6:FE:2C:2F:E7:93    0    0 - 0      0        5                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        6                              
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      0        6                              
+ (not associated)   F0:5B:7B:B0:19:58    0    0 - 0      0       10   CittaCastelfrancoV.toWiFi  
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       12                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       31  free hotspot E4A            
+ (not associated)   F2:93:FB:11:30:27    0    0 - 0      0       16  rieze   
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0        7  OROBEACH,SITECOM07A8F2,sitec
+ (not associated)   20:62:74:16:4A:60    0    0 - 0      0        2                              
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0        1                              
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0        3  free hotspot E4A            
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       37                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       15                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0     50       12                              
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      0        6                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        6  free hotspot E4A            
+ (not associated)   CC:FA:00:F1:49:3F    0    0 - 0      0        7                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        7                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0    591       32  free hotspot E4A            
+ (not associated)   BA:C4:92:5C:B3:55    0    0 - 0      0       26  
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0        9  Telecom-98415359,Telecom-857
+ (not associated)   FA:E8:87:ED:96:B2    0    0 - 0      0       14  rieze                       
+ (not associated)   DA:A1:19:A1:4D:91    0    0 - 0      0        1                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0        7  OROBEACH,SITECOM07A8F2,sitec
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0        4                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0     20       44                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       12                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       32  free hotspot E4A            
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        8                              
+ (not associated)   1C:B7:2C:59:9F:AD    0    0 - 0      0        5                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       32                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        6  free hotspot E4A            
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0        3  free hotspot E4A     
+ (not associated)   C2:A1:D1:B4:B9:08    0    0 - 0      0        2  rieze                       
+ (not associated)   DE:11:30:C4:39:08    0    0 - 0      0        4                              
+ (not associated)   DE:44:20:02:CC:83    0    0 - 0      0        3                              
+ (not associated)   DA:A1:19:2F:59:C8    0    0 - 0      0        2                              
+ (not associated)   F6:F7:17:62:2C:C4    0    0 - 0      0        1                              
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0        9  Telecom-98415359,Telecom-857
+ (not associated)   FA:E8:87:ED:96:B2    0    0 - 0      0       20  rieze                       
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0        6                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       44                              
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0        8                              
+ (not associated)   1C:B7:2C:59:9F:AD    0    0 - 0      0        5                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       32                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        8    
+ (not associated)   32:CF:6E:8B:41:F9    0    0 - 0     22        2                              
+ (not associated)   CE:5B:19:2E:E8:08    0    0 - 0      0        3                              
+ (not associated)   CC:78:5F:20:AB:B4    0    0 - 0      0        1  WIND-WiFi-890D              
+ (not associated)   CC:3A:61:66:0D:02    0    0 - 0      0        3                              
+ (not associated)   DA:A1:19:A2:2D:B4    0    0 - 0      0        5                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       25                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       29                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       61                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       38  free hotspot E4A            
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0       12                              
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        4                              
+ (not associated)   90:FD:61:22:D6:17    0    0 - 0      0        1  free hotspot E4A            
+ (not associated)   5E:2F:4E:3D:FD:82    0    0 - 0      0       10     
+ (not associated)   0E:D2:76:DA:4B:78    0    0 - 0      8        2                              
+ (not associated)   32:CF:6E:8B:41:F9    0    0 - 0     22        2                              
+ (not associated)   CE:5B:19:2E:E8:08    0    0 - 0      0        3                              
+ (not associated)   CC:78:5F:20:AB:B4    0    0 - 0      0        1  WIND-WiFi-890D              
+ (not associated)   CC:3A:61:66:0D:02    0    0 - 0      0        3                              
+ (not associated)   DA:A1:19:A2:2D:B4    0    0 - 0      0        5                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       25                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       29                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       61                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       38  free hotspot E4A            
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0       12                              
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        4                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0     70        9  OROBEACH,SITECOM07A8F2,sitec
+ (not associated)   C8:38:70:DF:20:32    0    0 - 0      0        5                              
+ (not associated)   0E:D2:76:DA:4B:78    0    0 - 0      0        2                              
+ (not associated)   32:CF:6E:8B:41:F9    0    0 - 0     31        5                              
+ (not associated)   CE:5B:19:2E:E8:08    0    0 - 0      0        3                              
+ (not associated)   CC:78:5F:20:AB:B4    0    0 - 0      0        1  WIND-WiFi-890D              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       27                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       61                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       39  free hotspot E4A            
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0       12                              
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        4                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0        9  OROBEACH,SITECOM07A8F2,sitec
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       17                              
+ (not associated)   90:FD:61:22:D6:17    0    0 - 0      0        3  free hotspot E4A     
+ 90:A2:DA:F2:11:69  30:52:CB:A4:B8:21    0    0e- 0   2454     3872  Arduino Yun-90A2DAF21169,Key
+ (not associated)   78:00:9E:C7:63:1E    0    0 - 0      0        4  wind                        
+ (not associated)   DA:A1:19:D2:02:16    0    0 - 0      0        2                              
+ (not associated)   20:A6:80:C8:9D:F0    0    0 - 0      0        2                              
+ (not associated)   C6:37:40:93:B8:20    0    0 - 0      0        8                              
+ (not associated)   9A:B2:69:0B:B7:82    0    0 - 0      0       26                              
+ (not associated)   30:F7:C5:72:73:F6    0    0 - 0      0        1                              
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0        1                              
+ (not associated)   8A:08:82:89:A7:95    0    0 - 0      0        4                              
+ (not associated)   E8:50:8B:8B:9F:2C    0    0 - 0      0        4                              
+ (not associated)   34:23:87:3C:8A:03    0    0 - 0      0       18                              
+ (not associated)   84:10:0D:20:BA:16    0    0 - 0      0        8                              
+ (not associated)   0E:D2:76:DA:4B:78    0    0 - 0      0        3                              
+ (not associated)   32:CF:6E:8B:41:F9    0    0 - 0      0        9   
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0        1                              
+ (not associated)   F0:25:B7:9D:A7:2A    0    0 - 0      0        5                              
+ (not associated)   20:A6:80:C8:9D:F0    0    0 - 0      0       10                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       31                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       72                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       55  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       33                              
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       38  OROBEACH,SITECOM07A8F2,sitec
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0       16                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       11  free hotspot E4A            
+ (not associated)   78:00:9E:C7:63:1E    0    0 - 0      0        4  wind                        
+ (not associated)   DA:A1:19:D2:02:16    0    0 - 0      0        2   
+ (not associated)   82:C4:7E:86:E6:82    0    0 - 0     20        6  rieze                       
+ (not associated)   2A:CD:DD:61:A9:93    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:40:06:31    0    0 - 0      0        4                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       39                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       39                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       56                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       92                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       43  free hotspot E4A            
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     31       70  free hotspot E4A            
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0        8                              
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       12                              
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       18  JOE AND THE JUICE,HomeBox-28
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       16  free hotspot E4A   
+ (not associated)   68:07:15:B9:1A:04    0    0 - 0      0        2  WIND-WiFi-890D              
+ (not associated)   F6:18:D6:7A:C9:E1    0    0 - 0      0        2                              
+ (not associated)   DA:A1:19:BA:5A:2F    0    0 - 0      0        5                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      116  free hotspot E4A            
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       43                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       64                              
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0       10                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       52  free hotspot E4A            
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0        6  free hotspot E4A            
+ (not associated)   16:D2:54:2D:F0:54    0    0 - 0      0        3                              
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      0       10                              
+ (not associated)   BC:75:74:E4:E3:B0    0    0 - 0      0        8                              
+ (not associated)   2C:0E:3D:F2:1E:DE    0    0 - 0      0        2   
+ (not associated)   7C:11:CB:21:16:C0    0    0 - 0      0        1                              
+ (not associated)   66:19:43:CF:5C:0D    0    0 - 0      0        2                              
+ (not associated)   E2:3B:26:81:CC:BF    0    0 - 0      0        7                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0    136        7                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     64      158  free hotspot E4A            
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0    145       42  BusNet,mycloud,JOE AND THE J
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       21  eduroam,Vodafone-21668185,Ps
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       52                              
+ (not associated)   DA:A1:19:3D:DC:E0    0    0 - 0      0        1                              
+ (not associated)   B6:22:B6:F0:D7:93    0    0 - 0      0        4                              
+ (not associated)   62:E9:19:2F:CE:8A    0    0 - 0      0        2                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       65    
+ (not associated)   7C:11:CB:21:16:C0    0    0 - 0      0        1                              
+ (not associated)   66:19:43:CF:5C:0D    0    0 - 0      0        2                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0    136        7                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     64      158  free hotspot E4A            
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0    145       42  BusNet,mycloud,JOE AND THE J
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       21  eduroam,Vodafone-21668185,Ps
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       52                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0       16                              
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       20                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       65                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0    123       48                              
+ (not associated)   B6:22:B6:F0:D7:93    0    0 - 0      0        4  
+ (not associated)   DA:A1:19:66:EE:BA    0    0 - 0      0        1                              
+ (not associated)   16:59:DA:56:0A:C6    0    0 - 0      0        4                              
+ (not associated)   7C:11:CB:21:16:C0    0    0 - 0      0        1                              
+ (not associated)   66:19:43:CF:5C:0D    0    0 - 0      0        2                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0        7                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0    119      161  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       42  BusNet,mycloud,JOE AND THE J
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       21  eduroam,Vodafone-21668185,Ps
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       52                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       48                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0       16                              
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       20   
+ (not associated)   0E:99:60:6E:9A:F5    0    0 - 0      0        3                              
+ (not associated)   DA:A1:19:66:EE:BA    0    0 - 0      0        1                              
+ (not associated)   16:59:DA:56:0A:C6    0    0 - 0      0        6                              
+ (not associated)   7C:11:CB:21:16:C0    0    0 - 0      0        1                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0        7                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     47      162  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       42  BusNet,mycloud,JOE AND THE J
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       52                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       48                              
+ (not associated)   66:19:43:CF:5C:0D    0    0 - 0      0        2                              
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       21  eduroam,Vodafone-21668185,Ps
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       23  free hotspot E4A            
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0       16  
+ (not associated)   10:2F:6B:BC:3E:DC    0    0 - 0      0        5  Guglielmo,Vodafone-WiFi,NETG
+ (not associated)   10:2F:6B:1B:2F:A4    0    0 - 0      0        1                              
+ (not associated)   F6:2F:97:3B:FE:67    0    0 - 0     59        8                              
+ (not associated)   2A:1F:24:64:0A:05    0    0 - 0      0        1                              
+ (not associated)   0E:99:60:6E:9A:F5    0    0 - 0      0        8                              
+ (not associated)   DA:A1:19:66:EE:BA    0    0 - 0      0        1                              
+ (not associated)   16:59:DA:56:0A:C6    0    0 - 0      0        6                              
+ (not associated)   7C:11:CB:21:16:C0    0    0 - 0      0        1                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0       10                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      163  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0    160       43  BusNet,mycloud,JOE AND THE J
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       48                              
+ (not associated)   66:19:43:CF:5C:0D    0    0 - 0      0        2   
+ (not associated)   10:2F:6B:BC:3E:DC    0    0 - 0      0        9  Guglielmo,Vodafone-WiFi,NETG
+ (not associated)   10:2F:6B:1B:2F:A4    0    0 - 0      0        1                              
+ (not associated)   F6:2F:97:3B:FE:67    0    0 - 0      0        8                              
+ (not associated)   2A:1F:24:64:0A:05    0    0 - 0      0        1                              
+ (not associated)   0E:99:60:6E:9A:F5    0    0 - 0      0        8                              
+ (not associated)   DA:A1:19:66:EE:BA    0    0 - 0      0        1                              
+ (not associated)   16:59:DA:56:0A:C6    0    0 - 0      0        6                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0       10                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      163  free hotspot E4A            
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       43  BusNet,mycloud,JOE AND THE J
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       52                              
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       21  eduroam,Vodafone-21668185,Ps
+ (not associated)   66:19:43:CF:5C:0D    0    0 - 0      0        2    
+ (not associated)   02:81:45:9C:50:54    0    0 - 0      0        1                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       16  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   DA:A1:19:37:54:A5    0    0 - 0      0        1                              
+ (not associated)   E6:60:44:7D:73:25    0    0 - 0     25       47                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      172  free hotspot E4A            
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0       14                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0       13                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       67                              
+ (not associated)   50:68:0A:24:38:B4    0    0 - 0      0       18                              
+ (not associated)   DA:A1:19:C0:74:70    0    0 - 0      0        1                              
+ (not associated)   FA:8D:35:5F:56:39    0    0 - 0      0        2  rieze                       
+ (not associated)   F6:2F:97:3B:FE:67    0    0 - 0      0       13                              
+ (not associated)   10:2F:6B:BC:3E:DC    0    0 - 0      0        9  Guglielmo,Vodafone-WiFi,NETG 
+ (not associated)   02:81:45:9C:50:54    0    0 - 0      0        1                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       16  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   DA:A1:19:37:54:A5    0    0 - 0      0        1                              
+ (not associated)   E6:60:44:7D:73:25    0    0 - 0      0       47                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      172  free hotspot E4A            
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0       13                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       67                              
+ (not associated)   AC:C1:EE:8D:12:AD    0    0 - 0      0        7                              
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0       20  Telecom-98415359,Telecom-857
+ (not associated)   60:83:34:5A:44:10    0    0 - 0    131       51                              
+ (not associated)   F6:2F:97:3B:FE:67    0    0 - 0      0       13                              
+ (not associated)   FA:8D:35:5F:56:39    0    0 - 0      0        2  rieze                       
+ (not associated)   DA:A1:19:C0:74:70    0    0 - 0      0        1   
+ (not associated)   80:C5:E6:E5:65:50    0    0 - 0      1        3  NETGEAR-3G,Vodafone-officine
+ (not associated)   DA:A1:19:BD:64:DD    0    0 - 0      0        1                              
+ (not associated)   DA:88:74:1C:B4:29    0    0 - 0      0        9                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       29  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     50      180  free hotspot E4A            
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       69                              
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       23                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       54                              
+ (not associated)   AC:C1:EE:8D:12:AD    0    0 - 0      0       10                              
+ (not associated)   30:F7:C5:72:73:F6    0    0 - 0      8        9                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0    178      102                              
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       51                              
+ (not associated)   E6:60:44:7D:73:25    0    0 - 0      0       47  
+ (not associated)   08:3D:88:ED:FA:17    0    0 - 0      0        1                              
+ (not associated)   80:C5:E6:E5:65:50    0    0 - 0      1        3  NETGEAR-3G,Vodafone-officine
+ (not associated)   DA:A1:19:BD:64:DD    0    0 - 0      0        1                              
+ (not associated)   DA:88:74:1C:B4:29    0    0 - 0      0        9                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       29  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      180  free hotspot E4A            
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       69                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       54                              
+ (not associated)   AC:C1:EE:8D:12:AD    0    0 - 0      0       10                              
+ (not associated)   30:F7:C5:72:73:F6    0    0 - 0      0        9                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0      102                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0       15                              
+ (not associated)   1C:B7:2C:59:9F:AD    0    0 - 0      0        7  
+ (not associated)   08:3D:88:ED:FA:17    0    0 - 0      0        1                              
+ (not associated)   80:C5:E6:E5:65:50    0    0 - 0      0        3  NETGEAR-3G,Vodafone-officine
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       29  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      182  free hotspot E4A            
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       56                              
+ (not associated)   AC:C1:EE:8D:12:AD    0    0 - 0      0       10                              
+ (not associated)   30:F7:C5:72:73:F6    0    0 - 0      0       15                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0      102                              
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0       15                              
+ (not associated)   1C:B7:2C:59:9F:AD    0    0 - 0      0        7                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       57  free hotspot E4A            
+ (not associated)   10:2F:6B:1B:2F:A4    0    0 - 0      0        5                              
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      0       13  
+ (not associated)   B6:94:DF:C2:CC:8D    0    0 - 0      0        1                              
+ (not associated)   EA:DB:90:DC:27:AB    0    0 - 0      0        4  rieze                       
+ (not associated)   DA:A1:19:52:0A:50    0    0 - 0      0        2                              
+ (not associated)   06:B8:3F:AA:3F:22    0    0 - 0     63        4  rieze                       
+ (not associated)   08:3D:88:ED:FA:17    0    0 - 0      0        1                              
+ (not associated)   80:C5:E6:E5:65:50    0    0 - 0      0        3  NETGEAR-3G,Vodafone-officine
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       33  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0    201      186  free hotspot E4A            
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       56                              
+ (not associated)   30:F7:C5:72:73:F6    0    0 - 0      0       20                              
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0      102                              
+ (not associated)   DA:88:74:1C:B4:29    0    0 - 0     17       12                              
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0       15   
+ (not associated)   DA:A1:19:EB:BA:16    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:20:03:18    0    0 - 0      0        1                              
+ (not associated)   3E:A2:9A:49:72:F6    0    0 - 0      0        8                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      246  free hotspot E4A            
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0        9                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0       17                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       46                              
+ (not associated)   08:70:45:5D:13:4C    0    0 - 0      0        6  ASUS                        
+ (not associated)   EC:9B:F3:70:75:50    0    0 - 0      0        2  trinca                      
+ (not associated)   82:E0:51:BB:6C:0C    0    0 - 0      0        2                              
+ (not associated)   2C:0E:3D:F2:1E:DE    0    0 - 0      0        3                              
+ (not associated)   EE:6E:66:A1:3A:1B    0    0 - 0      0       11                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       26  free hotspot E4A     
+ (not associated)   26:DC:C0:6E:44:5D    0    0 - 0      0        2  WebPocket-8691              
+ (not associated)   DA:A1:19:EB:BA:16    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:20:03:18    0    0 - 0      0        1                              
+ (not associated)   3E:A2:9A:49:72:F6    0    0 - 0     53        9                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     51      248  free hotspot E4A            
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0       17                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       46                              
+ (not associated)   08:70:45:5D:13:4C    0    0 - 0      0        6  ASUS                        
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       68  free hotspot E4A            
+ (not associated)   AA:ED:FD:25:99:E5    0    0 - 0      0        1                              
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       80                              
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       26  free hotspot E4A            
+ (not associated)   EE:6E:66:A1:3A:1B    0    0 - 0      0       11      
+ (not associated)   C2:F8:F2:0E:7F:89    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:BB:A5:D2    0    0 - 0      0        2                              
+ (not associated)   26:DC:C0:6E:44:5D    0    0 - 0      0        2  WebPocket-8691              
+ (not associated)   DA:A1:19:EB:BA:16    0    0 - 0      0        1                              
+ (not associated)   3E:A2:9A:49:72:F6    0    0 - 0      0       12                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0     49      251  free hotspot E4A            
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       68  free hotspot E4A            
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0    294       27  free hotspot E4A            
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       46                              
+ (not associated)   82:E0:51:BB:6C:0C    0    0 - 0      0        2                              
+ (not associated)   EC:9B:F3:70:75:50    0    0 - 0      0        2  trinca                      
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0        9                              
+ (not associated)   DA:A1:19:20:03:18    0    0 - 0      0        1   
+ (not associated)   60:C5:47:8E:2D:D4    0    0 - 0      0        8  rieze                       
+ (not associated)   C2:F8:F2:0E:7F:89    0    0 - 0      0        1                              
+ (not associated)   3E:A2:9A:49:72:F6    0    0 - 0      0       16                              
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      252  free hotspot E4A            
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       27  free hotspot E4A            
+ (not associated)   B0:A2:E7:16:85:E9    0    0 - 0      0       13                              
+ (not associated)   EE:6E:66:A1:3A:1B    0    0 - 0      0       13                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0       23                              
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       69  free hotspot E4A            
+ (not associated)   08:70:45:5D:13:4C    0    0 - 0      0        6  ASUS                        
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       40  OROBEACH,SITECOM07A8F2,sitec
+ (not associated)   DA:A1:19:EB:BA:16    0    0 - 0      0        1                              
+ (not associated)   26:DC:C0:6E:44:5D    0    0 - 0      0        2  WebPocket-8691      
+ (not associated)   D4:9A:20:64:C1:AA    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   C8:F6:50:DA:79:6A    0    0 - 0     80        4                              
+ (not associated)   E2:93:29:85:E1:A9    0    0 - 0      0        2                              
+ (not associated)   96:63:BD:59:59:CB    0    0 - 0      0        1                              
+ (not associated)   DA:A1:19:29:12:B8    0    0 - 0      0        2                              
+ (not associated)   DE:7F:68:CE:C9:C2    0    0 - 0      0        4                              
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0       35                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0       23                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       34  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   34:23:87:3C:8A:03    0    0 - 0      0       55                              
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       67  SDU-GUEST,TDC-13B0,Vodafone-
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       88                              
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       70  
+ (not associated)   6A:87:81:81:6C:83    0    0 - 0      0        2                              
+ (not associated)   D4:9A:20:64:C1:AA    0    0 - 0      0        2  free hotspot E4A            
+ (not associated)   C8:F6:50:DA:79:6A    0    0 - 0      0        4                              
+ (not associated)   34:23:87:3C:8A:03    0    0 - 0      0       55                              
+ (not associated)   DE:7F:68:CE:C9:C2    0    0 - 0      0        5                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       34  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   DA:A1:19:29:12:B8    0    0 - 0      0        2                              
+ (not associated)   20:55:31:E4:9C:B1    0    0 - 0      0       23                              
+ (not associated)   7C:C5:37:8F:D2:FA    0    0 - 0      0       67  SDU-GUEST,TDC-13B0,Vodafone-
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0       35                              
+ (not associated)   96:63:BD:59:59:CB    0    0 - 0      0        1                              
+ (not associated)   E2:93:29:85:E1:A9    0    0 - 0     48        4   
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0       30                              
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       55                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       38  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0       21  free hotspot E4A            
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       29                              
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       23  eduroam,FRITZ!Box 3390,Psico
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0       30                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       38  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0       21  free hotspot E4A            
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       29                              
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       23  eduroam,FRITZ!Box 3390,Psico
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       55
+ (not associated)   24:AB:81:96:EF:0C    0    0 - 0     80       11                              
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0       31                              
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       29                              
+ (not associated)   80:E6:50:24:23:D4    0    0 - 0      0       23  eduroam,FRITZ!Box 3390,Psico
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       57                              
+ (not associated)   14:9A:10:C3:B7:B0    0    0 - 0      0       38  BISTRO SAN GIUSTINO,Sitecom1
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0       21  free hotspot E4A            
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0    135       35  Telecom-98415359,Telecom-857     
+ (not associated)   DA:A1:19:FF:02:EC    0    0 - 0      1        3
+ (not associated)   DA:A1:19:6D:56:4D    0    0 - 0      0        6
+ (not associated)   56:DC:B3:A7:80:B6    0    0 - 0      0        2
+ (not associated)   DA:A1:19:E0:B1:70    0    0 - 0      0        5
+ (not associated)   86:3C:82:E4:7F:6C    0    0 - 0      0        2
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0        9  Telecom-98415359,Telecom-85787553,Redmi-melk,potente,melkWiFi,Telecom-33442211,disc-student,Escile,WIFIGM
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       16
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       25  free hotspot E4A
+ (not associated)   32:02:F2:E0:54:32    0    0 - 0      0       31
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        2
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       10  OROBEACH,SITECOM07A8F2,sitecom07a8f2,CRCPOISOLO,nando,TP-LINK_366B0C
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        7
+ (not associated)   30:F7:C5:72:73:F6    0    0 - 0      0        5
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0    522        5  free hotspot E4A
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0        7
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0      0        6
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0        3  free hotspot E4A
+ (not associated)   DA:A1:19:5A:5E:F5    0    0 - 0      0        5
+ (not associated)   DE:F0:D0:71:33:9D    0    0 - 0      0        3
+ (not associated)   1C:CD:E5:57:62:97    0    0 - 0      1        3
+ (not associated)   DA:A1:19:E0:B1:70    0    0 - 0      0        6
+ (not associated)   DA:A1:19:2D:2F:85    0    0 - 0      0        5
+ (not associated)   DA:A1:19:85:67:3E    0    0 - 0      0        5
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      156
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       38
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       25
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       43
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0       28
+ (not associated)   D0:65:CA:86:5F:2C    0    0 - 0     12       16
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0       14  free hotspot E4A
+ (not associated)   00:1F:3B:1A:9D:2D    0    0 - 0      0       10  free hotspot E4A
+ (not associated)   86:3C:82:E4:7F:6C    0    0 - 0      0        9
+ (not associated)   A4:02:B9:5A:C4:0E    0    0 - 0      0        5
+ (not associated)   68:07:15:B9:1A:04    0    0 - 0      0        3
+ (not associated)   60:F1:89:8A:2B:C3    0    0 - 0      0        4
+ (not associated)   F2:23:36:56:12:F6    0    0 - 0      0        5
+ (not associated)   DA:A1:19:77:59:33    0    0 - 0      0        6
+ (not associated)   4A:46:DD:7A:99:90    0    0 - 0      0        3
+ (not associated)   EE:9B:E1:76:E7:5E    0    0 - 0      0       22  rieze
+ (not associated)   32:02:F2:E0:54:32    0    0 - 0      0        6
+ (not associated)   2C:0E:3D:F2:1E:DE    0    0 - 0      0        1
+ (not associated)   8C:34:FD:77:37:02    0    0 - 0      0        9  InfostradaWiFi-641560,dlink,TTNET WiFi,EATANDGO-BAR,Linkem-FD64E6,Vodafone-30141244,Linkem-6A3044,Vodafone-nigeria,Infos
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0        6
+ (not associated)   BE:82:C7:BB:81:3D    0    0 - 0      0        7
+ (not associated)   24:AB:81:96:EF:0C    0    0 - 0      0        2
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        4
+ (not associated)   8C:34:FD:57:2C:BA    0    0 - 0      0       40  CRCPOISOLO,bergamin wifi,SITECOM07A8F2,sitecom07a8f2,OROBEACH,nando,TP-LINK_366B0C
+ (not associated)   B6:C7:55:FC:0D:6A    0    0 - 0      0        2
+ (not associated)   A8:88:08:5C:AC:0F    0    0 - 0      0        4
+ (not associated)   F2:96:CC:1E:C1:A8    0    0 - 0      0        2
+ (not associated)   96:BA:25:39:91:79    0    0 - 0      0        6  rieze
+ (not associated)   EA:76:12:07:36:E9    0    0 - 0      0        1
+ (not associated)   50:EA:D6:5E:38:CD    0    0 - 0      0        4
+ (not associated)   DA:A1:19:36:45:E4    0    0 - 0      0        1
+ (not associated)   DA:A1:19:53:D0:38    0    0 - 0      0        1
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0       42
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0      126  free hotspot E4A
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0       30
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0       29
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0       50  Redmi-melk,melkWiFi,Telecom-33442211,disc-student,Escile,WIFIGM,Telecom-85787553,Telecom-98415359,potente
+ (not associated)   AC:C1:EE:8D:12:AD    0    0 - 0      0        3
+ (not associated)   40:F3:08:73:C0:7B    0    0 - 0      0        4
+ (not associated)   DA:A1:19:FE:04:D9    0    0 - 0      0        1
+ (not associated)   DA:A1:19:CC:80:E8    0    0 - 0      0        1
+ (not associated)   DA:A1:19:42:BF:84    0    0 - 0      0        2
+ (not associated)   DA:A1:19:67:E4:17    0    0 - 0      0        1
+ (not associated)   5A:61:C1:B0:FB:CB    0    0 - 0      0        4
+ (not associated)   50:C8:E5:CA:4B:DD    0    0 - 0      0       10
+ (not associated)   DA:A1:19:2F:B7:98    0    0 - 0      0        2
+ (not associated)   DA:A1:19:DF:93:69    0    0 - 0      0        1
+ (not associated)   DA:A1:19:2A:DE:7D    0    0 - 0      0        1
+ (not associated)   DA:A1:19:4D:01:21    0    0 - 0      0        1
+ (not associated)   DA:A1:19:B7:6B:41    0    0 - 0      0        2
+ (not associated)   DA:A1:19:94:48:E7    0    0 - 0      0        1
+ (not associated)   78:92:9C:90:FC:3E    0    0 - 0      0       12  free hotspot E4A
+ (not associated)   DA:A1:19:92:46:79    0    0 - 0      0        2
+ (not associated)   DA:B3:6C:90:57:2C    0    0 - 0      0        2
+ (not associated)   9C:C1:72:28:89:0D    0    0 - 0      0        1
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        5
+ 02:1A:11:FC:D3:97  24:EC:99:96:D8:4A    0    0e- 0      0       83  AndroidAP
+ (not associated)   DA:A1:19:A3:8E:E5    0    0 - 0      0        1
+ (not associated)   F2:17:DC:A5:F0:95    0    0 - 0      0        3
+ (not associated)   DA:A1:19:EF:A3:42    0    0 - 0      0        1
+ (not associated)   26:64:6A:4D:9A:9A    0    0 - 0      0        1
+ (not associated)   DA:A1:19:09:BD:5C    0    0 - 0      0        1
+ (not associated)   32:02:F2:E0:54:32    0    0 - 0      0        1
+ (not associated)   DA:A1:19:46:8C:E3    0    0 - 0      0        1
+ (not associated)   DA:A1:19:15:92:FA    0    0 - 0      0        1
+ (not associated)   DA:A1:19:3B:B8:20    0    0 - 0      0        1
+ (not associated)   BC:F5:AC:F5:90:A2    0    0 - 0      0       13
+ (not associated)   FE:4A:C0:BF:44:B3    0    0 - 0      0        8
+ (not associated)   C0:18:85:86:7D:2C    0    0 - 0      0        6
+ (not associated)   74:DF:BF:24:93:B4    0    0 - 0      0        2
+ (not associated)   90:E7:C4:A6:F4:41    0    0 - 0      0        3
+ (not associated)   12:23:BA:41:9A:E1    0    0 - 0      0       29
+ (not associated)   24:EC:99:96:D8:4A    0    0 - 0      0       18  AndroidAP
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0       16  Telecom-98415359,Telecom-85787553,melkWiFi,Telecom-33442211,disc-student,Escile,WIFIGM,Redmi-melk,potente
+ (not associated)   F2:23:36:56:12:F6    0    0 - 0      0        4
+ (not associated)   86:3C:82:E4:7F:6C    0    0 - 0      0       15
+ (not associated)   08:3E:8E:BD:8E:53    0    0 - 0      0       14
+ (not associated)   DA:A1:19:77:F1:13    0    0 - 0      0       10
+ (not associated)   DA:A1:19:F9:29:20    0    0 - 0      0        7
+ (not associated)   DA:A1:19:2A:56:89    0    0 - 0      0        8
+ (not associated)   DA:A1:19:E5:B0:2A    0    0 - 0      0        9
+ (not associated)   DA:A1:19:F3:51:47    0    0 - 0      0        5
+ (not associated)   9A:46:5C:EE:FC:02    0    0 - 0      0        2
+ (not associated)   60:83:34:5A:44:10    0    0 - 0      0        9
+ (not associated)   DA:A1:19:A7:5B:8E    0    0 - 0      0        3
+ (not associated)   E6:58:90:31:6D:DD    0    0 - 0      0        2
+ (not associated)   60:F8:1D:C4:B8:C8    0    0 - 0     86        3  free hotspot E4A
+ (not associated)   80:6C:1B:DE:91:E4    0    0 - 0      0        4
+ (not associated)   60:45:BD:D5:C7:AC    0    0 - 0      0        9  Telecom-98415359,Telecom-85787553,Redmi-melk,potente,melkWiFi,Telecom-33442211,disc-student,Escile,WIFIGM
+
+
+                 
